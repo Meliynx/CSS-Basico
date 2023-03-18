@@ -1,0 +1,20 @@
+
+.container{
+    display: flex;
+    flex-direction: row;
+    /*flex-warp: warp;*/
+    /*justify-content: space-around;*/
+    align-content: centers;
+
+}
+#one{ background-color: crimson;
+    width: 200px;
+    height: 200px;}
+
+#two{ background-color: darkorchid;
+    width: 200px;
+    height: 200px;}
+
+three{ background-color: yellow;
+        width: 200px;
+        height: 200px;}
